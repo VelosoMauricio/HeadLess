@@ -1,9 +1,9 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 99,
-    "major": 4,
-    "minor": 0,
+    "build": 254,
+    "major": 5,
+    "minor": 6,
     "revision": 0
   },
   "properties": {
@@ -18,7 +18,6 @@
     "scaleMode": "nearest",
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
-    "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "Determined Moon",
     "description": "",
@@ -53,7 +52,9 @@
     "authorIds": [],
     "authorUsernames": [],
     "categories": [],
-    "playableDevices": [],
+    "playableDevices": [
+      "mobile"
+    ],
     "extensionProperties": [],
     "platforms": [
       {
@@ -63,10 +64,2909 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
-    "resourceFolders": []
+    "resources": [
+      {
+        "file": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT40",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT41",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT42",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT43",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT44",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT45",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT46",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT47",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT48",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT49",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT50",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT51",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT52",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT53",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT54",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT55",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT56",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT57",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT58",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT59",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT60",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT61",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT62",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT63",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT64",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT65",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT66",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT67",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT68",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT69",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT70",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT71",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT72",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT73",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT74",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT75",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT76",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT77.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT77",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT78.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT78",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT79.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT79",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT80",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT81.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT81",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT82.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT82",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT83.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT83",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT84.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT84",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT85.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT85",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT86.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT86",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT87.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT87",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT88.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT88",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT89.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT89",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT90.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT90",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT91.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT91",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT92.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT92",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT93.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT93",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT94.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT94",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT95.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT95",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT96.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT96",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT97.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT97",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT98.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT98",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT99.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT99",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT100.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT100",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT101.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT101",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT102.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT102",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT103.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT103",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT104.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT104",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT105.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT105",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT106.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT106",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT107.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT107",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT108.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT108",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT109.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT109",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT110.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT110",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT111.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT111",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT112.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT112",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT113.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT113",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT114.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT114",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT115.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT115",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT116.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT116",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT117.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT117",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT118.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT118",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT119.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT119",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT120.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT120",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT121.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT121",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT122.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT122",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT123.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT123",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT124.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT124",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT125.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT125",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT126.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT126",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT127.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT127",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT128.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT128",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT129.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT129",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT130.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT130",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT131.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT131",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT132.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT132",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT133.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT133",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT134.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT134",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT135.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT135",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT136.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT136",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT137.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT137",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT138.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT138",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT139.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT139",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT140.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT140",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT141.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT141",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT142.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT142",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT143.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT143",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT144.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT144",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT145.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT145",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT146.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT146",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT147.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT147",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT148.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT148",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT149.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT149",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT150.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT150",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT151.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT151",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT152.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT152",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT153.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT153",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT154.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT154",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT155.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT155",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT156.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT156",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT157.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT157",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT158.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT158",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT159.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT159",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT160.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT160",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT161.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT161",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT162.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT162",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT163.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT163",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT164.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT164",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT165.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT165",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT166.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT166",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT167.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT167",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT168.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT168",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT169.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT169",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT170.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT170",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT171.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT171",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT172.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT172",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT173.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT173",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT174.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT174",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT175.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT175",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT176.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT176",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT177.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT177",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT178.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT178",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT179.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT179",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT180.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT180",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT181.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT181",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT182.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT182",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT183.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT183",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT184.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT184",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT185.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT185",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT186.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT186",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT187.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT187",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT188.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT188",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT189.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT189",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT190.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT190",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT191.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT191",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT192.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT192",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT193.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT193",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT194.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT194",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT195.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT195",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT196.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT196",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT197.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT197",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT198.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT198",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT199.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT199",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT200.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT200",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT201.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT201",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT202.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT202",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT203.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT203",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT204.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT204",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT205.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT205",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT206.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT206",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT207.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT207",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT208.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT208",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT209.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT209",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT210.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT210",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT211.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT211",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT212.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT212",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT213.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT213",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT214.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT214",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT215.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT215",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT216.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT216",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT217.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT217",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT218.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT218",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT219.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT219",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT220.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT220",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT221.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT221",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT222.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT222",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT223.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT223",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT224.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT224",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT225.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT225",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT226.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT226",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT227.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT227",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT228.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT228",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT229.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT229",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT230.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT230",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT231.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT231",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT232.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT232",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT233.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT233",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT234.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT234",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT235.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT235",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT236.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT236",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT237.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT237",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT238.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT238",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT239.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT239",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT240.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT240",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT241.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT241",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT242.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT242",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT243.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT243",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT244.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT244",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT245.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT245",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT246.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT246",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT247.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT247",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT248.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT248",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT249.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT249",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT250.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT250",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT251.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT251",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT252.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "360_F_222700834_ImTOMvxZ9Knx7Awt71Akn3N2yl2vKhuT252",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite40",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite41",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite42",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite43",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite44",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite45",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite46",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite47",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite48",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite49",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite50",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite51",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite52",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite53",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite54",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite55",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite56",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite57",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite58",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite59",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite60",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite61",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite62",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite63",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite64",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite65",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite66",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite67",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite68",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite69",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite70",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite71",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite72",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite73",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite74",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite75",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite76",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite77.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite77",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite78.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite78",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite79.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite79",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite80",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite81.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite81",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite82.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite82",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite83.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite83",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite84.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite84",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../Downloads/RPGCharacterSprites32x32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x32.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x40",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x41",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x42",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x43",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x44",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x45",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x46",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x47",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x48",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x49",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x50",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x51",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x52",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x53",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x54",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/.._.._.._Downloads_RPGCharacterSprites32x55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x55",
+        "smoothed": false,
+        "userAdded": false
+      }
+    ]
   },
   "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
   "objectsGroups": [],
   "variables": [],
   "layouts": [
@@ -85,18 +2985,920 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
+        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
+        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.546875,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [],
       "instances": [],
-      "objects": [],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "..\\..\\..\\Downloads\\RPGCharacterSprites32x32",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x32",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x33",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x34",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x35",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x36",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x37",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x38",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x39",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x40",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x41",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x42",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x43",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x44",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x45",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x46",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x47",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x48",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x49",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x50",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x51",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x52",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x53",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x54",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\..\\..\\Downloads\\RPGCharacterSprites32x55",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewSprite2"
+          }
+        ]
+      },
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -127,9 +3929,11 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
+          "cameraType": "perspective",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "isLocked": false,
@@ -167,11 +3971,35 @@
           ]
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [],
-  "externalLayouts": [],
-  "externalSourceFiles": []
+  "externalLayouts": []
 }
